@@ -1,6 +1,4 @@
-> #Responsive Design
-
-> 
+Responsive Design
 
 ------------
 
